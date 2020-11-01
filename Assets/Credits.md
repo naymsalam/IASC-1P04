@@ -39,4 +39,9 @@
 
 ---
 
-Forest Summer Roond 022 200619_0186.wav By Klankbeeld is licensed under the Attribution License
+Forest Summer Roond 022 200619_0186.wav By Klankbeeld is licensed under the Creative Commons License
+
+
+---
+
+1103campfire1 By SageTyrtle is licensed under the Creative Commons License
