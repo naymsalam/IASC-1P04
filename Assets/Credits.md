@@ -56,4 +56,8 @@ CrowdPanic By Belthazarus is licensed under the Creative Commons License
 
 ---
 
-Ambience » City Ambience Exterior Cars Passing By THP Sounds under the Attribution Noncommercial License
+Ambience » City Ambience Exterior Cars Passing By THP Sounds is licensed under the Attribution Noncommercial License
+
+---
+
+Animals » Canada Geese Honks By Kinoton is licensed under the Creative Commons License
