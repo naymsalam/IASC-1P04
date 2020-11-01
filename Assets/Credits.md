@@ -34,3 +34,5 @@
 "Antananarivo, Madagascar" by Rod Waddington is licensed under CC BY-SA 2.0
 
 ---
+
+"Vancouver Canada" by Nick Kenrick.. is licensed under CC BY 2.0
