@@ -18,3 +18,8 @@
 "Rainforest" by WanderingSolesPhotography is licensed under CC BY 2.0
 
 ---
+
+"rainforest" by Adam Greig is licensed under CC BY-SA 2.0
+
+---
+
