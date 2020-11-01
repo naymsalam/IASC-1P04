@@ -26,3 +26,9 @@
 "Survival Shelter" by frankdouwes is licensed under CC BY 2.0
 
 ---
+
+"Camp Fire [Explored]" by Walid Mahfoudh is licensed under CC BY-NC 2.0
+
+---
+
+
