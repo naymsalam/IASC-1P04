@@ -31,4 +31,6 @@
 
 ---
 
+"Antananarivo, Madagascar" by Rod Waddington is licensed under CC BY-SA 2.0
 
+---
