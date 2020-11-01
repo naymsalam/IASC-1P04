@@ -23,3 +23,6 @@
 
 ---
 
+"Survival Shelter" by frankdouwes is licensed under CC BY 2.0
+
+---
