@@ -1,8 +1,8 @@
 # Dissapperance 
-## PLaytest
+## Playtest
 
-#Play the game
+## Play the game
 Play the game prototype [here] (../prototype/Dissaperance.html)
 
-##complete the playetest survey
+## Complete the playetest survey
 
