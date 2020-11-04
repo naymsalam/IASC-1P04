@@ -4,7 +4,7 @@ Welcome to the website for the Twine Game by Naym Salam.
 
 ## Playtest
 
-Playtest my Game [here](playtest/playlist)
+Playtest my Game [here](playtest/playtest)
 
 ## Protoype
 
