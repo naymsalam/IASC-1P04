@@ -2,7 +2,7 @@
 ## Playtest
 
 ## Play the game
-Play the game prototype [here] (../prototype/Dissaperance.html)
+Play the game prototype [here](../prototype/Dissaperance.html)
 
-## Complete the playetest survey
+## Complete the playtest survey
 
