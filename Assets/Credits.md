@@ -60,7 +60,15 @@ CrowdPanic By Belthazarus is licensed under the Creative Commons License
 
 ---
 
+The last of us death sound By Naughty Dogs
+
+---
+
 Ambience » City Ambience Exterior Cars Passing By THP Sounds is licensed under the Attribution Noncommercial License
+
+---
+
+Tiger Sound By DudeHA
 
 ---
 
@@ -91,5 +99,3 @@ Wild Berries By Vegan on Board
 Rustic Lodge By Offset
 
 ---
-
-Tiger Sound By DudeHA
