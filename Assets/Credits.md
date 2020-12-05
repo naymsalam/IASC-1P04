@@ -65,3 +65,29 @@ Ambience » City Ambience Exterior Cars Passing By THP Sounds is licensed under 
 ---
 
 Animals » Canada Geese Honks By Kinoton is licensed under the Creative Commons License
+
+---
+
+Siberian Tiger By Shutttershock
+
+---
+
+Humble spear By Quora
+
+---
+
+Tropical Rainforest By paul4innovating
+
+---
+
+Tiger Grieves By BBC Earth
+
+---
+
+Wild Berries By Vegan on Board
+
+---
+
+Rustic Lodge By Offset
+
+---
