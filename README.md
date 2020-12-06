@@ -9,7 +9,7 @@ Disapperance is a game where players gets to test their survival skills. Players
 
 ## Play Now
 
-Play Disapperance [here](Final_build/Dissaperance_FinalBuild.html)
+Play Disapperance [here](Final_build/Disapperance_FinalBuild.html)
 
 ### Playtest
 
